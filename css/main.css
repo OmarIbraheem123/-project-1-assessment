@@ -1,0 +1,26 @@
+body {
+
+    display: flex;  
+    justify-content: center;
+    margin-top: 50%;
+}
+/* #plus {
+background-color: gray;
+color: white;
+}
+
+#minus {
+    background-color: gray;
+    color: white;
+} */
+
+button:hover {
+     background-color:white; 
+     color: gray;
+  
+}
+
+input {
+    width: 40px;
+    height: 20px;
+}
